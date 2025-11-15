@@ -146,3 +146,4 @@ curl -X POST https://your-api.vercel.app/api/generate \
 
 MIT
 # zoom-timer-ai
+# zoom-timer-ai
